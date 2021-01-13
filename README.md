@@ -37,15 +37,15 @@ helloworld
 方式一(推荐):
 
 ```shell
-git clone https://github.com/ztino/jd_seckill.git
-cd jd_seckill
+git clone https://github.com/MRAUStuty/helloworld.git
+cd helloworld
 go get
 ```
 
 方式二:
 
 ```shell
-go get github.com/ztino/jd_seckill
+go get github.com/MRAUStuty/helloworld
 ```
 
 ## 待办
